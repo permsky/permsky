@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🌱 I’m currently learning web development (Python/Django) on [devman.org](https://devman.org). My [pet-project](https://zandercatcher.ru) currently stopped due to learning gets almost all free time. My [resume](https://perm.hh.ru/applicant/resumes/view?resume=85d6c527ff0944d92e0039ed1f5952746f705a).
 
 <!--
 **permsky/permsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
